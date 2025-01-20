@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/kklamberty/3601-server.git
 	branch = main
-	commit = 7819ad316862ad8f8ae4ee92e17591308eeb6e93
-	parent = 3fd2cbfdc899ec502abd87082f915690c3c5b71b
+	commit = b1608656f90624f35f3c77a79c1ec904ce698a64
+	parent = bfc2578bea49c4c10a6bb29d4908cf91cf96fa47
 	method = merge
 	cmdver = 0.4.9
